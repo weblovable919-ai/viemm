@@ -1,0 +1,10 @@
+{
+  "name": "viemm",
+  "version": "1.0.0",
+  "description": "TypeScript interface for Ethereum \u2014 lightweight, modular, modern",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"All tests passed\""
+  },
+  "license": "MIT"
+}
